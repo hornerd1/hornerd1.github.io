@@ -1,0 +1,133 @@
+/* Global styles */
+body {
+	font-family: Arial, sans-serif;
+	margin: 2rem;
+	padding: 0;
+	background-color: #b7d5da;
+}
+
+
+header {
+	background-color: #000;
+	color: #ece2e2;
+	padding: 0.625rem;
+	text-align: center;
+}
+
+
+main {
+	margin: 2rem;
+}
+
+h1 {
+	font-size: 6rem;
+	margin: 0;
+	font-family: Tragen, Charcoal, sans-serif;
+	
+    
+}
+h3 {
+	font-size: 3rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin: 1.875rem 0 0.625rem;
+	text-align: center;
+text-decoration: underline;
+}
+
+
+p {
+	font-size: 1.125rem;
+	line-height: 1.5;
+	margin: 0 0 1.25rem;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	font-size: 1.125rem;
+	line-height: 1.5;
+	list-style: none;
+}
+
+
+  
+.image-1 {
+width: 100%;
+height: auto;
+}
+
+.image-2 {
+	width: 100%;
+	height: auto;
+}
+  
+.image-3 {
+	width: 100%;
+	height: auto;
+}
+
+figcaption {
+	font-size: 1rem;
+	text-align: center;
+	margin: 0.625 0 1.25rem;
+	border: 0.0625rem solid black;
+	padding: 0.5rem;
+	background-color: #fff;
+	font-style: italic;
+}
+
+/* Sections */
+#release-date {
+	border-top: 0.0625rem solid #ccc;
+	text-align: center;
+	
+}
+
+#overall-rating {
+	border-top: 0.0625rem solid #ccc;
+	text-align: center;
+}
+
+#primary-characters {
+	border-top: 0.0625rem solid #ccc;
+	text-align: center;
+	font-size: 2rem;
+	
+}
+
+#images {
+	border-top: 0.0625rem solid #ccc;
+}
+
+#review {
+	border-top: 0.0625rem solid #ccc;
+}
+
+#other-sections {
+	border-top: 0.0625rem solid #ccc;
+	margin: 10rem;
+}
+
+.Recommendations-Box {
+	background-color: #000;
+	color: #ece2e2;
+	padding: 0.625rem;
+	text-align: center;
+}
+
+/* Footer */
+footer {
+	background-color: #000;
+	color: #fff;
+	padding: 0.625;
+	text-align: center;
+	margin-top: 1.25rem;
+}
+ 
+
